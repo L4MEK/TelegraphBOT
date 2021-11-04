@@ -15,7 +15,7 @@
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/Telegraph-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/L4MEK/TelegraphBOT)
 
 - Get your API HASH & API TOKEN from [my.telegram.org](https://my.telegram.org/auth?to=apps) or [UseTGSBot](https://telegram.dog/UseTGSBot)
 
