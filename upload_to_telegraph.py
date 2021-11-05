@@ -30,10 +30,8 @@
  ​        ​"**💘 Oi!, sou o TelegraphBOT**​\n​\n​" 
  ​        ​"**Sou um bot capaz de transformar suas fotos em links do Telegra.ph**​\n​\n​" 
  ​        ​"**Posso transformar seus textos em Links​\n​" 
- ​        ​"⍟ I can create a instant view link for your text.​\n​" 
- ​        ​"⍟ I can create post in telegra.ph if you send any text.​\n​" 
- ​        ​"(You can send text in format `post content|TITLE`)​\n​\n​" 
- ​        ​"Create your own [𝗙𝗼𝗿𝗸 𝗡𝗼𝘄](https://github.com/Ns-AnoNymouS/Telegraph-Uploader)"​, 
+ ​        ​"**Também posso criar postagens (Exemplo: TEXTO | TÍTULO).**.​\n​" 
+ ​        ​"Criador: [𝐑𝐲𝐚𝐧 𝐅𝐞𝐫𝐫𝐞𝐢𝐫𝐚](https://t.me/L4MEK)"​, 
  ​        ​disable_web_page_preview​=​True​, 
  ​        ​quote​=​True 
  ​    ) 
@@ -46,7 +44,7 @@
   
  ​    ​try​: 
  ​        ​send_message​ ​=​ ​await​ ​m​.​reply_text​( 
- ​            ​"Processing....⏳"​,  
+ ​            ​"**Aguarde...🔮**"​,  
  ​            ​quote​=​True 
  ​        ) 
  ​        ​location​ ​=​ ​f'./​{​m​.​from_user​.​id​}​{​time​.​time​()​}​/' 
